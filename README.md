@@ -2,7 +2,7 @@
 
 Im **Zachary Domingo** also known as **Zach**, and I'm a IT student graduate from Mariano Marcos State University.<br><br>
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Zachary+Domingo%C3%B1as%2C+22+years+old;Future+Front-end+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Zachary+Domingo%2C+22+years+old;Future+Front-end+Web+Developer)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/Gmail-zachary0411domingo@gmail.com-red)](mailto:zachary0411domingo@gmail.com)
 
